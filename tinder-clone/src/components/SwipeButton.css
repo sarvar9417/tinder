@@ -1,0 +1,37 @@
+.swipeButtons{
+    position: fixed;
+    display: flex;
+    bottom: 5vh;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.swipeButton{
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.2);
+    color: royalblue;
+}
+
+.replay{
+    padding: 1vh !important;
+    color: sandybrown !important;
+}
+
+.close{
+    padding: 1vh !important;
+    color: red;
+}
+
+.star{
+    padding: 1vh !important;
+    color: blue;
+}
+
+.favorite{
+    padding: 1vh !important;
+    color: tomato;
+}
+
+.flash{
+    padding: 1vh !important;
+    color: orange;
+}

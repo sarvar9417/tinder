@@ -1,0 +1,4 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://sarvar9417:6622332Sa@cluster0.laiva.mongodb.net/tinder-db?retryWrites=true&w=majority"
+}
